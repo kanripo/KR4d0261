@@ -6,7 +6,11 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 43
 #+PROPERTY: FILE SB04n0459-043盤洲文集-卷第四十三.
+
+# SB1_1174-132.png
+# page missing
 <pb:KR4d0261_SBCK_043-1a>¶
+# SB1_1174-133.png
 太祖¶
 太宗朝常以處將帥及降王之君臣自後則多以皇¶
 族爲之故三朝國史以爲官存而事廢在熈寜中曽¶
